@@ -169073,6 +169073,80 @@
       },
       "model_weights": {},
       "validated": false
+    },
+    {
+      "id": "2026-08-18T04:38:38.098754+00:00",
+      "prediction_time": "2026-08-18T04:38:38.098754+00:00",
+      "current_price": 1895.22,
+      "market_condition": "unknown",
+      "predictions": {
+        "15min": {
+          "timestamp": "2026-08-18T04:53:22.682591+00:00",
+          "ensemble_price": 1902.8923273580172,
+          "models": {
+            "linear": 1893.9490784878487,
+            "polynomial": 1896.9189440421712,
+            "random_forest": 1894.9973000000005,
+            "boosted": 1905.8734103147399
+          },
+          "weights": {
+            "lightgbm_xgboost": 0.75,
+            "linear": 0.25,
+            "polynomial": 0.0,
+            "ml_features": 0.0
+          }
+        },
+        "30min": {
+          "timestamp": "2026-08-18T05:08:22.682591+00:00",
+          "ensemble_price": 1903.0306633166128,
+          "models": {
+            "linear": 1894.5024223222322,
+            "polynomial": 1899.4004242147982,
+            "random_forest": 1894.9973000000005,
+            "boosted": 1905.8734103147399
+          },
+          "weights": {
+            "lightgbm_xgboost": 0.75,
+            "linear": 0.25,
+            "polynomial": 0.0,
+            "ml_features": 0.0
+          }
+        },
+        "60min": {
+          "timestamp": "2026-08-18T05:38:22.682591+00:00",
+          "ensemble_price": 1903.3073352338047,
+          "models": {
+            "linear": 1895.609109990999,
+            "polynomial": 1905.5684697714548,
+            "random_forest": 1894.9973000000005,
+            "boosted": 1905.8734103147399
+          },
+          "weights": {
+            "lightgbm_xgboost": 0.75,
+            "linear": 0.25,
+            "polynomial": 0.0,
+            "ml_features": 0.0
+          }
+        },
+        "120min": {
+          "timestamp": "2026-08-18T06:38:22.682591+00:00",
+          "ensemble_price": 1903.8606790681881,
+          "models": {
+            "linear": 1897.8224853285328,
+            "polynomial": 1922.724901730377,
+            "random_forest": 1894.9973000000005,
+            "boosted": 1905.8734103147399
+          },
+          "weights": {
+            "lightgbm_xgboost": 0.75,
+            "linear": 0.25,
+            "polynomial": 0.0,
+            "ml_features": 0.0
+          }
+        }
+      },
+      "model_weights": {},
+      "validated": false
     }
   ],
   "validations": [
