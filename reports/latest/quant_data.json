@@ -1,29 +1,33 @@
 {
-  "spot": {},
+  "spot": {
+    "price": 2260.84,
+    "change_24h": 18.18210086910625,
+    "volume_24h": 26264447586.99929
+  },
   "regime": {
-    "regime": "HIGH",
-    "vol_1h_pct": 395.36,
-    "vol_4h_pct": 205.14,
-    "vol_24h_pct": 149.91,
-    "primary_vol_pct": 149.91,
-    "atr": 8.01,
-    "timestamp": "2026-08-19T21:27:55.916075"
+    "regime": "EXTREME",
+    "vol_1h_pct": 130.17,
+    "vol_4h_pct": 215.74,
+    "vol_24h_pct": 155.46,
+    "primary_vol_pct": 155.46,
+    "atr": 3.35,
+    "timestamp": "2026-08-19T22:28:04.275795"
   },
   "lp": {
-    "regime": "HIGH",
-    "range_pct": 20.0,
-    "lower_price": 1814.68,
-    "upper_price": 2722.02,
-    "recommendation": "HOLD",
-    "il_at_boundary_pct": -0.41,
-    "fee_apy": 66.9,
-    "net_expected_return_pct": 66.5,
-    "tvl_used": 2047.3,
-    "current_price": 2268.35,
-    "timestamp": "2026-08-19T21:27:55.916236"
+    "regime": "EXTREME",
+    "range_pct": 35.0,
+    "lower_price": 1469.55,
+    "upper_price": 3052.13,
+    "recommendation": "AVOID",
+    "note": "EXTREME volatility \u2014 LP positions likely to suffer heavy IL. Avoid.",
+    "fee_apy": 0.0,
+    "il_at_boundary_pct": 0.0,
+    "net_expected_return_pct": 0.0,
+    "current_price": 2260.84,
+    "timestamp": "2026-08-19T22:28:04.275810"
   },
   "strength": {
-    "score": 43,
+    "score": 35,
     "signal": "WAIT",
     "raw_signal": "WAIT",
     "regime_filtered": false,
@@ -32,7 +36,7 @@
       "macd": 5,
       "bb": 10,
       "volume": 10,
-      "regime": 8
+      "regime": 0
     },
     "sushiswap_context": "ETH/USDC \u2014 hold current positions; monitor funding rate"
   }
