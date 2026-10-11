@@ -1,7 +1,7 @@
 # Ethereum Price Prediction Report
 
-**Generated:** 2026-10-11 01:38:23 UTC  
-**Current Price:** $2507.75
+**Generated:** 2026-10-11 08:25:56 UTC  
+**Current Price:** $2499.65
 
 ---
 
@@ -11,13 +11,13 @@
 
 **Action:** WAIT - No clear entry signal  
 **Confidence:** LOW  
-**Market Trend:** BULLISH
+**Market Trend:** BULL MARKET
 
 ### Market Metrics
 
 | Metric | Value |
 |:-------|:------|
-| **Current Price** | $2507.75 |
+| **Current Price** | $2499.65 |
 | **Trend** | NEUTRAL |
 | **RSI (14)** | 50.00 (NEUTRAL) |
 | **MACD** | NEUTRAL |
@@ -29,10 +29,10 @@
 
 | Time Horizon | Predicted Price | Change | Target Time |
 |:-------------|:----------------|:-------|:------------|
-| **15min** | $2506.11 | -0.07% | 2026-10-11T01:53:27.809814+00:00 |
-| **30min** | $2506.19 | -0.06% | 2026-10-11T02:08:27.809814+00:00 |
-| **60min** | $2506.35 | -0.06% | 2026-10-11T02:38:27.809814+00:00 |
-| **120min** | $2506.68 | -0.04% | 2026-10-11T03:38:27.809814+00:00 |
+| **15min** | $2503.79 | +0.17% | 2026-10-11T08:40:59.172397+00:00 |
+| **30min** | $2503.55 | +0.16% | 2026-10-11T08:55:59.172397+00:00 |
+| **60min** | $2503.08 | +0.14% | 2026-10-11T09:25:59.172397+00:00 |
+| **120min** | $2502.13 | +0.10% | 2026-10-11T10:25:59.172397+00:00 |
 
 ---
 
@@ -40,28 +40,27 @@
 
 ### Market Trend Assessment
 
-**Overall Trend:** BULLISH (Confidence: MEDIUM)
+**Overall Trend:** BULL MARKET (Confidence: HIGH)
 
 **Trend Components:**
 - Moving Average Alignment: Neutral
 - Price Action: Bullish
 - Momentum: Bullish
-- RSI: 59.84
-- MACD: Bearish
+- RSI: 53.35
+- MACD: Bullish
 
 ### Support and Resistance Levels
 
-**Current Price:** $2008.68
+**Current Price:** $2497.83
 
 **Resistance Levels:**
-- R1: $2014.66 (+0.30%)
-- R2: $2051.91 (+2.15%)
-- R3: $2089.38 (+4.02%)
+- R1: $2517.38 (+0.78%)
+- R2: $2585.31 (+3.50%)
+- R3: $2723.48 (+9.03%)
 
 **Support Levels:**
-- S1: $1971.34 (-1.86%)
-- S2: $1939.37 (-3.45%)
-- S3: $1918.17 (-4.51%)
+- S1: $2471.35 (-1.06%)
+- S2: $2405.35 (-3.70%)
 
 ### Trading Signal
 
@@ -89,9 +88,13 @@
 - U
 - L
 - L
-- I
-- S
-- H
+-  
+- M
+- A
+- R
+- K
+- E
+- T
 - .
 -  
 - R
@@ -110,9 +113,9 @@
 - t
 -  
 - 5
-- 9
+- 3
 - .
-- 8
+- 4
 - .
 -  
 - M
@@ -121,9 +124,9 @@
 - D
 -  
 - b
-- e
-- a
-- r
+- u
+- l
+- l
 - i
 - s
 - h
@@ -151,18 +154,18 @@
 - t
 -  
 - $
-- 1
-- 9
+- 2
+- 4
 - 7
 - 1
 - .
 - 3
-- 4
+- 5
 -  
 - (
 - 1
 - .
-- 9
+- 1
 - %
 -  
 - b
@@ -189,17 +192,17 @@
 -  
 - $
 - 2
-- 0
+- 5
 - 1
-- 4
+- 7
 - .
-- 6
-- 6
+- 3
+- 8
 -  
 - (
 - 0
 - .
-- 3
+- 8
 - %
 -  
 - a
@@ -207,6 +210,96 @@
 - o
 - v
 - e
+- )
+- 
+
+- 
+
+- ⚠
+- ️
+-  
+- O
+- r
+- i
+- g
+- i
+- n
+- a
+- l
+-  
+- B
+- U
+- Y
+-  
+- s
+- i
+- g
+- n
+- a
+- l
+-  
+- f
+- i
+- l
+- t
+- e
+- r
+- e
+- d
+-  
+- o
+- u
+- t
+-  
+- d
+- u
+- e
+-  
+- t
+- o
+-  
+- p
+- o
+- o
+- r
+-  
+- R
+- i
+- s
+- k
+- :
+- R
+- e
+- w
+- a
+- r
+- d
+-  
+- r
+- a
+- t
+- i
+- o
+-  
+- (
+- 0
+- .
+- 7
+- 4
+-  
+- <
+-  
+- 1
+- .
+- 5
+-  
+- m
+- i
+- n
+- i
+- m
+- u
+- m
 - )
 - 
 
@@ -299,9 +392,9 @@
 
 **Signal Strength Scores:**
 
-- Buy Score: 3
-- Sell Score: 4
-- Short Score: 2
+- Buy Score: 5
+- Sell Score: 2
+- Short Score: 1
 
 ---
 
