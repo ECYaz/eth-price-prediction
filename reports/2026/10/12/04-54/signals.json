@@ -1,0 +1,194 @@
+{
+  "trend_analysis": {
+    "trend": "BULL MARKET",
+    "confidence": "HIGH",
+    "ma_alignment": "bearish",
+    "price_action": "bullish",
+    "momentum": "bullish",
+    "rsi": 86.62575491915055,
+    "macd_signal": "bullish"
+  },
+  "support_resistance": {
+    "current_price": 2560.54,
+    "resistance": [
+      2585.31,
+      2719.141,
+      2747.95
+    ],
+    "support": [
+      2533.1,
+      2483.33,
+      2405.35
+    ],
+    "nearest_resistance": 2585.31,
+    "nearest_support": 2533.1
+  },
+  "trading_signal": {
+    "signal": "SELL",
+    "action": "STAY OUT - Wait for better entry",
+    "confidence": "MEDIUM",
+    "scores": {
+      "buy": 5,
+      "sell": 6,
+      "short": 2
+    },
+    "trend_context": "BULL MARKET",
+    "entry": 2560.54,
+    "stop_loss": 2587.66,
+    "target": 2560.54,
+    "risk_reward": 0.0,
+    "reasoning": "Market trend: BULL MARKET. RSI overbought at 86.6. MACD bullish crossover. Price near upper Bollinger Band. Support at $2533.10 (1.1% below). Resistance at $2585.31 (1.0% above)\n\nYou are currently OUT OF TRADE. Exit signal detected but you have no position. Stay on the sidelines.",
+    "user_context": {
+      "trade_status": "OUT_OF_TRADE",
+      "position": {
+        "entry_price": 0,
+        "position_size": 0,
+        "entry_time": null,
+        "type": "LONG"
+      },
+      "last_updated": null,
+      "notes": "Set trade_status to IN_TRADE when you enter a position, OUT_OF_TRADE when you exit"
+    },
+    "derivatives_data": {
+      "funding_rate": 4.62238955e-07,
+      "open_interest": 14998626908.844028,
+      "long_short_ratio": null,
+      "fear_greed_index": 69,
+      "fear_greed_classification": "Greed"
+    },
+    "filter_confidence": 0.6618083411418876,
+    "filter_reasons": [
+      "Aligned with down trend",
+      "Clear of S/R levels"
+    ]
+  },
+  "market_filters": {
+    "trend": "down",
+    "trend_strength": 0.3090417057094382,
+    "ma_200": 2600.7266499999996,
+    "near_sr": false,
+    "sr_levels": [
+      1875.7865000000002,
+      1925.1045000000001,
+      2492.2615000000005,
+      2689.5335000000005,
+      1777.1505000000002
+    ]
+  },
+  "derivatives_context": {
+    "funding_rate": 4.62238955e-07,
+    "open_interest": 14998626908.844028,
+    "long_short_ratio": null,
+    "fear_greed_index": 69,
+    "fear_greed_classification": "Greed"
+  },
+  "defi_signals": {
+    "uniswap_v3": {
+      "optimal_range_1sigma": [
+        2532.46,
+        2588.62
+      ],
+      "optimal_range_2sigma": [
+        2504.39,
+        2616.69
+      ],
+      "projected_fee_apy": null,
+      "il_at_10pct": 0.113,
+      "il_at_20pct": 0.414,
+      "il_at_30pct": 0.854,
+      "tvl_usd": 0,
+      "fees_24h_usd": 0,
+      "recommendation": "WAIT"
+    },
+    "sushiswap": {
+      "tvl_usd": null,
+      "volume_24h_usd": null,
+      "fees_24h_usd": null
+    },
+    "protocol_comparison": {
+      "uniswap_v3_apy": 0,
+      "sushiswap_apy": null,
+      "better_protocol": "UNISWAP_V3",
+      "better_apy": 0
+    },
+    "fear_greed_value": 69,
+    "fear_greed_label": "Greed",
+    "gas_gwei": null,
+    "gas_label": "LOW",
+    "onchain_momentum": "NEUTRAL"
+  },
+  "onchain_context": {
+    "gas": {
+      "safe_gas_gwei": null,
+      "propose_gas_gwei": null,
+      "fast_gas_gwei": null,
+      "label": "LOW"
+    },
+    "uniswap_v3_pool": {
+      "token0_price": null,
+      "token1_price": null,
+      "liquidity": null,
+      "tick": null,
+      "tvl_usd": null,
+      "volume_24h_usd": null,
+      "fees_24h_usd": null,
+      "hour_data": []
+    },
+    "fear_greed": {
+      "value": 69,
+      "label": "Greed",
+      "history": [
+        {
+          "value": 69,
+          "label": "Greed"
+        },
+        {
+          "value": 61,
+          "label": "Greed"
+        },
+        {
+          "value": 64,
+          "label": "Greed"
+        },
+        {
+          "value": 59,
+          "label": "Greed"
+        },
+        {
+          "value": 64,
+          "label": "Greed"
+        },
+        {
+          "value": 71,
+          "label": "Greed"
+        },
+        {
+          "value": 73,
+          "label": "Greed"
+        }
+      ]
+    },
+    "eth_supply": {
+      "eth_burned_all_time": null,
+      "supply_change": null
+    },
+    "onchain_momentum": "NEUTRAL",
+    "fetched_at": "2026-10-12T04:54:26.264544Z"
+  },
+  "signal_score": {
+    "score": 75,
+    "signal": "BUY",
+    "confidence": "MEDIUM",
+    "obv_trend": "UP",
+    "stoch_rsi": 1.0,
+    "vwap": 2489.15,
+    "rsi_divergence": "NONE"
+  },
+  "kelly": {
+    "kelly_fraction": 0.25,
+    "kelly_pct": 25.0,
+    "win_rate": 0.55,
+    "win_loss_ratio": 1.5
+  },
+  "generated_at": "2026-10-12T04:54:26.459916+00:00"
+}
