@@ -1,41 +1,43 @@
 {
   "trend_analysis": {
-    "trend": "BEAR MARKET",
-    "confidence": "HIGH",
-    "ma_alignment": "bearish",
-    "price_action": "bearish",
-    "momentum": "bearish",
-    "rsi": 38.908758543951635,
+    "trend": "BULLISH",
+    "confidence": "MEDIUM",
+    "ma_alignment": "neutral",
+    "price_action": "bullish",
+    "momentum": "bullish",
+    "rsi": 59.83722776769513,
     "macd_signal": "bearish"
   },
   "support_resistance": {
-    "current_price": 2306.74,
+    "current_price": 2008.68,
     "resistance": [
-      2365.12,
-      2427.4559999999997,
-      2476.7933333333335
+      2014.6599999999999,
+      2051.9066666666668,
+      2089.38
     ],
     "support": [
-      2285.255
+      1971.3449999999998,
+      1939.37,
+      1918.1666666666667
     ],
-    "nearest_resistance": 2365.12,
-    "nearest_support": 2285.255
+    "nearest_resistance": 2014.6599999999999,
+    "nearest_support": 1971.3449999999998
   },
   "trading_signal": {
     "signal": "WAIT",
     "action": "WAIT - No clear entry signal",
     "confidence": "LOW",
     "scores": {
-      "buy": 4,
-      "sell": 2,
-      "short": 4
+      "buy": 3,
+      "sell": 4,
+      "short": 2
     },
-    "trend_context": "BEAR MARKET",
-    "entry": 2285.26,
-    "stop_loss": 2216.7,
-    "target": 2365.12,
-    "risk_reward": 1.16,
-    "reasoning": "Market trend: BEAR MARKET. RSI neutral at 38.9. MACD bearish crossover. Price near lower Bollinger Band. Support at $2285.26 (0.9% below). Resistance at $2365.12 (2.5% above)\n\nYou are currently OUT OF TRADE. No clear entry opportunity. Wait for a better setup.",
+    "trend_context": "BULLISH",
+    "entry": 1971.34,
+    "stop_loss": 1912.2,
+    "target": 2014.66,
+    "risk_reward": 0.73,
+    "reasoning": "Market trend: BULLISH. RSI neutral at 59.8. MACD bearish crossover. Support at $1971.34 (1.9% below). Resistance at $2014.66 (0.3% above)\n\nYou are currently OUT OF TRADE. No clear entry opportunity. Wait for a better setup.",
     "user_context": {
       "trade_status": "OUT_OF_TRADE",
       "position": {
@@ -49,7 +51,7 @@
     },
     "derivatives_data": {
       "funding_rate": 0.0001,
-      "open_interest": 14537933193.578447,
+      "open_interest": 14604981761.517054,
       "long_short_ratio": null,
       "fear_greed_index": 50,
       "fear_greed_classification": "Neutral"
@@ -57,19 +59,20 @@
   },
   "market_filters": {
     "trend": "down",
-    "trend_strength": 1.0,
-    "ma_200": 2544.2195,
+    "trend_strength": 0.5114776600995452,
+    "ma_200": 2061.39795,
     "near_sr": false,
     "sr_levels": [
-      1914.1485000000002,
-      2496.7005000000004,
-      2690.8845,
-      1768.5105
+      2959.8093,
+      3104.0581,
+      1950.0677,
+      3212.2447,
+      3320.4313
     ]
   },
   "derivatives_context": {
     "funding_rate": 0.0001,
-    "open_interest": 14542149239.511345,
+    "open_interest": 14605202433.899754,
     "long_short_ratio": null,
     "fear_greed_index": 50,
     "fear_greed_classification": "Neutral"
@@ -77,12 +80,12 @@
   "defi_signals": {
     "uniswap_v3": {
       "optimal_range_1sigma": [
-        2274.11,
-        2339.37
+        1952.32,
+        2065.04
       ],
       "optimal_range_2sigma": [
-        2241.48,
-        2372.0
+        1895.96,
+        2121.4
       ],
       "projected_fee_apy": null,
       "il_at_10pct": 0.113,
@@ -165,16 +168,16 @@
       "supply_change": null
     },
     "onchain_momentum": "NEUTRAL",
-    "fetched_at": "2026-10-26T16:37:44.725656Z"
+    "fetched_at": "2026-10-26T21:28:12.653614Z"
   },
   "signal_score": {
-    "score": 0,
-    "signal": "SELL",
+    "score": 90,
+    "signal": "BUY",
     "confidence": "HIGH",
     "obv_trend": "DOWN",
-    "stoch_rsi": 0.818,
-    "vwap": 2347.09,
-    "rsi_divergence": "NONE"
+    "stoch_rsi": 0.627,
+    "vwap": 1974.34,
+    "rsi_divergence": "BULLISH"
   },
   "kelly": {
     "kelly_fraction": 0.25,
@@ -182,5 +185,5 @@
     "win_rate": 0.55,
     "win_loss_ratio": 1.5
   },
-  "generated_at": "2026-10-26T16:37:44.954237+00:00"
+  "generated_at": "2026-10-26T21:28:12.927748+00:00"
 }
