@@ -5,11 +5,11 @@
     "ma_alignment": "bearish",
     "price_action": "bullish",
     "momentum": "bearish",
-    "rsi": 34.993875051041215,
+    "rsi": 27.86588128681474,
     "macd_signal": "bearish"
   },
   "support_resistance": {
-    "current_price": 2236.04,
+    "current_price": 2242.3,
     "resistance": [
       2258.8,
       2370.31,
@@ -23,20 +23,20 @@
     "nearest_support": 2204.49
   },
   "trading_signal": {
-    "signal": "WAIT",
-    "action": "WAIT - No clear entry signal",
-    "confidence": "LOW",
+    "signal": "SHORT",
+    "action": "ENTER SHORT POSITION - Good entry opportunity",
+    "confidence": "MEDIUM",
     "scores": {
       "buy": 2,
-      "sell": 2,
-      "short": 2
+      "sell": 4,
+      "short": 5
     },
     "trend_context": "BEARISH",
-    "entry": 2204.49,
-    "stop_loss": 2138.36,
-    "target": 2258.8,
-    "risk_reward": 0.82,
-    "reasoning": "Market trend: BEARISH. RSI neutral at 35.0. MACD bearish crossover. Price near lower Bollinger Band. Support at $2204.49 (1.4% below). Resistance at $2258.80 (1.0% above)\n\nYou are currently OUT OF TRADE. No clear entry opportunity. Wait for a better setup.",
+    "entry": 2242.3,
+    "stop_loss": 2258.8,
+    "target": 2204.49,
+    "risk_reward": 2.29,
+    "reasoning": "Market trend: BEARISH. RSI oversold at 27.9. MACD bearish crossover. Price near lower Bollinger Band. Support at $2204.49 (1.7% below). Resistance at $2258.80 (0.7% above)\n\nYou are currently OUT OF TRADE. This is a good opportunity to enter a short position.",
     "user_context": {
       "trade_status": "OUT_OF_TRADE",
       "position": {
@@ -49,8 +49,8 @@
       "notes": "Set trade_status to IN_TRADE when you enter a position, OUT_OF_TRADE when you exit"
     },
     "derivatives_data": {
-      "funding_rate": -0.0001191651140838,
-      "open_interest": 13900257715.65244,
+      "funding_rate": -7.65797214297e-05,
+      "open_interest": 13908511909.742435,
       "long_short_ratio": null,
       "fear_greed_index": 30,
       "fear_greed_classification": "Fear"
@@ -59,19 +59,19 @@
   "market_filters": {
     "trend": "down",
     "trend_strength": 1.0,
-    "ma_200": 2496.84465,
+    "ma_200": 2494.6281499999996,
     "near_sr": false,
     "sr_levels": [
-      1881.8055,
-      2506.5525,
-      1924.8915000000002,
-      2678.8965,
-      1774.0905
+      1886.5614,
+      2507.985,
+      2679.4122,
+      1779.4194000000002,
+      2572.2702
     ]
   },
   "derivatives_context": {
-    "funding_rate": -0.000119221203501,
-    "open_interest": 13898766918.183641,
+    "funding_rate": -7.65797214297e-05,
+    "open_interest": 13909007703.843239,
     "long_short_ratio": null,
     "fear_greed_index": 30,
     "fear_greed_classification": "Fear"
@@ -79,12 +79,12 @@
   "defi_signals": {
     "uniswap_v3": {
       "optimal_range_1sigma": [
-        2198.17,
-        2273.91
+        2205.61,
+        2278.99
       ],
       "optimal_range_2sigma": [
-        2160.3,
-        2311.78
+        2168.93,
+        2315.67
       ],
       "projected_fee_apy": null,
       "il_at_10pct": 0.113,
@@ -137,6 +137,10 @@
           "label": "Fear"
         },
         {
+          "value": 30,
+          "label": "Fear"
+        },
+        {
           "value": 51,
           "label": "Neutral"
         },
@@ -155,10 +159,6 @@
         {
           "value": 54,
           "label": "Neutral"
-        },
-        {
-          "value": 51,
-          "label": "Neutral"
         }
       ]
     },
@@ -167,15 +167,15 @@
       "supply_change": null
     },
     "onchain_momentum": "NEUTRAL",
-    "fetched_at": "2026-10-30T20:31:11.848694Z"
+    "fetched_at": "2026-10-31T00:31:26.615185Z"
   },
   "signal_score": {
     "score": 0,
     "signal": "SELL",
     "confidence": "HIGH",
     "obv_trend": "DOWN",
-    "stoch_rsi": 0.147,
-    "vwap": 2291.92,
+    "stoch_rsi": 0.0,
+    "vwap": 2291.11,
     "rsi_divergence": "NONE"
   },
   "kelly": {
@@ -184,5 +184,5 @@
     "win_rate": 0.55,
     "win_loss_ratio": 1.5
   },
-  "generated_at": "2026-10-30T20:31:12.062487+00:00"
+  "generated_at": "2026-10-31T00:31:26.859788+00:00"
 }
