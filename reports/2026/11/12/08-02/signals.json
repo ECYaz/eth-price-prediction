@@ -1,0 +1,188 @@
+{
+  "trend_analysis": {
+    "trend": "NEUTRAL",
+    "confidence": "LOW",
+    "ma_alignment": "bearish",
+    "price_action": "bullish",
+    "momentum": "neutral",
+    "rsi": 34.217210200142276,
+    "macd_signal": "bullish"
+  },
+  "support_resistance": {
+    "current_price": 2050.0,
+    "resistance": [
+      2105.22,
+      2149.31,
+      2250.365
+    ],
+    "support": [
+      2033.49,
+      2002.0
+    ],
+    "nearest_resistance": 2105.22,
+    "nearest_support": 2033.49
+  },
+  "trading_signal": {
+    "signal": "WAIT",
+    "action": "WAIT - No clear entry signal",
+    "confidence": "LOW",
+    "scores": {
+      "buy": 4,
+      "sell": 0,
+      "short": 0
+    },
+    "trend_context": "NEUTRAL",
+    "entry": 2033.49,
+    "stop_loss": 1972.49,
+    "target": 2105.22,
+    "risk_reward": 1.18,
+    "reasoning": "Market trend: NEUTRAL. RSI neutral at 34.2. MACD bullish crossover. Price near lower Bollinger Band. Support at $2033.49 (0.8% below). Resistance at $2105.22 (2.7% above)\n\nYou are currently OUT OF TRADE. No clear entry opportunity. Wait for a better setup.",
+    "user_context": {
+      "trade_status": "OUT_OF_TRADE",
+      "position": {
+        "entry_price": 0,
+        "position_size": 0,
+        "entry_time": null,
+        "type": "LONG"
+      },
+      "last_updated": null,
+      "notes": "Set trade_status to IN_TRADE when you enter a position, OUT_OF_TRADE when you exit"
+    },
+    "derivatives_data": {
+      "funding_rate": 3.20785248157e-05,
+      "open_interest": 13809940964.965227,
+      "long_short_ratio": null,
+      "fear_greed_index": 28,
+      "fear_greed_classification": "Fear"
+    }
+  },
+  "market_filters": {
+    "trend": "down",
+    "trend_strength": 1.0,
+    "ma_200": 2334.3457,
+    "near_sr": false,
+    "sr_levels": [
+      1873.967,
+      1911.9406,
+      2500.5314,
+      2690.3994000000002,
+      2234.7162
+    ]
+  },
+  "derivatives_context": {
+    "funding_rate": 3.20785248157e-05,
+    "open_interest": 13810752484.99083,
+    "long_short_ratio": null,
+    "fear_greed_index": 28,
+    "fear_greed_classification": "Fear"
+  },
+  "defi_signals": {
+    "uniswap_v3": {
+      "optimal_range_1sigma": [
+        2017.0,
+        2083.0
+      ],
+      "optimal_range_2sigma": [
+        1983.99,
+        2116.01
+      ],
+      "projected_fee_apy": null,
+      "il_at_10pct": 0.113,
+      "il_at_20pct": 0.414,
+      "il_at_30pct": 0.854,
+      "tvl_usd": 0,
+      "fees_24h_usd": 0,
+      "recommendation": "WAIT"
+    },
+    "sushiswap": {
+      "tvl_usd": null,
+      "volume_24h_usd": null,
+      "fees_24h_usd": null
+    },
+    "protocol_comparison": {
+      "uniswap_v3_apy": 0,
+      "sushiswap_apy": null,
+      "better_protocol": "UNISWAP_V3",
+      "better_apy": 0
+    },
+    "fear_greed_value": 28,
+    "fear_greed_label": "Fear",
+    "gas_gwei": null,
+    "gas_label": "LOW",
+    "onchain_momentum": "NEUTRAL"
+  },
+  "onchain_context": {
+    "gas": {
+      "safe_gas_gwei": null,
+      "propose_gas_gwei": null,
+      "fast_gas_gwei": null,
+      "label": "LOW"
+    },
+    "uniswap_v3_pool": {
+      "token0_price": null,
+      "token1_price": null,
+      "liquidity": null,
+      "tick": null,
+      "tvl_usd": null,
+      "volume_24h_usd": null,
+      "fees_24h_usd": null,
+      "hour_data": []
+    },
+    "fear_greed": {
+      "value": 28,
+      "label": "Fear",
+      "history": [
+        {
+          "value": 28,
+          "label": "Fear"
+        },
+        {
+          "value": 29,
+          "label": "Fear"
+        },
+        {
+          "value": 32,
+          "label": "Fear"
+        },
+        {
+          "value": 29,
+          "label": "Fear"
+        },
+        {
+          "value": 28,
+          "label": "Fear"
+        },
+        {
+          "value": 25,
+          "label": "Extreme Fear"
+        },
+        {
+          "value": 28,
+          "label": "Fear"
+        }
+      ]
+    },
+    "eth_supply": {
+      "eth_burned_all_time": null,
+      "supply_change": null
+    },
+    "onchain_momentum": "NEUTRAL",
+    "fetched_at": "2026-11-12T08:03:01.754111Z"
+  },
+  "signal_score": {
+    "score": 40,
+    "signal": "WAIT",
+    "confidence": "LOW",
+    "obv_trend": "DOWN",
+    "stoch_rsi": 0.519,
+    "vwap": 2095.57,
+    "rsi_divergence": "BULLISH"
+  },
+  "kelly": {
+    "kelly_fraction": 0.25,
+    "kelly_pct": 25.0,
+    "win_rate": 0.55,
+    "win_loss_ratio": 1.5
+  },
+  "generated_at": "2026-11-12T08:03:01.961389+00:00"
+}

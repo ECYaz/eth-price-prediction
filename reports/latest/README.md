@@ -1,7 +1,7 @@
 # Ethereum Price Prediction Report
 
-**Generated:** 2026-11-12 00:12:40 UTC  
-**Current Price:** $2051.55
+**Generated:** 2026-11-12 08:02:45 UTC  
+**Current Price:** $2049.26
 
 ---
 
@@ -11,13 +11,13 @@
 
 **Action:** WAIT - No clear entry signal  
 **Confidence:** LOW  
-**Market Trend:** BEARISH
+**Market Trend:** NEUTRAL
 
 ### Market Metrics
 
 | Metric | Value |
 |:-------|:------|
-| **Current Price** | $2051.55 |
+| **Current Price** | $2049.26 |
 | **Trend** | NEUTRAL |
 | **RSI (14)** | 50.00 (NEUTRAL) |
 | **MACD** | NEUTRAL |
@@ -29,10 +29,10 @@
 
 | Time Horizon | Predicted Price | Change | Target Time |
 |:-------------|:----------------|:-------|:------------|
-| **15min** | $2048.99 | -0.12% | 2026-11-12T00:27:44.212513+00:00 |
-| **30min** | $2048.81 | -0.13% | 2026-11-12T00:42:44.212513+00:00 |
-| **60min** | $2048.44 | -0.15% | 2026-11-12T01:12:44.212513+00:00 |
-| **120min** | $2047.70 | -0.19% | 2026-11-12T02:12:44.212513+00:00 |
+| **15min** | $2061.05 | +0.58% | 2026-11-12T08:17:48.691401+00:00 |
+| **30min** | $2061.16 | +0.58% | 2026-11-12T08:32:48.691401+00:00 |
+| **60min** | $2061.36 | +0.59% | 2026-11-12T09:02:48.691401+00:00 |
+| **120min** | $2061.78 | +0.61% | 2026-11-12T10:02:48.691401+00:00 |
 
 ---
 
@@ -40,18 +40,18 @@
 
 ### Market Trend Assessment
 
-**Overall Trend:** BEARISH (Confidence: MEDIUM)
+**Overall Trend:** NEUTRAL (Confidence: LOW)
 
 **Trend Components:**
 - Moving Average Alignment: Bearish
-- Price Action: Bearish
+- Price Action: Bullish
 - Momentum: Neutral
-- RSI: 32.83
+- RSI: 34.22
 - MACD: Bullish
 
 ### Support and Resistance Levels
 
-**Current Price:** $2050.10
+**Current Price:** $2050.00
 
 **Resistance Levels:**
 - R1: $2105.22 (+2.69%)
@@ -59,7 +59,8 @@
 - R3: $2250.36 (+9.77%)
 
 **Support Levels:**
-- S1: $2002.00 (-2.35%)
+- S1: $2033.49 (-0.81%)
+- S2: $2002.00 (-2.34%)
 
 ### Trading Signal
 
@@ -83,13 +84,13 @@
 - d
 - :
 -  
-- B
+- N
 - E
-- A
+- U
+- T
 - R
-- I
-- S
-- H
+- A
+- L
 - .
 -  
 - R
@@ -108,9 +109,9 @@
 - t
 -  
 - 3
-- 2
+- 4
 - .
-- 8
+- 2
 - .
 -  
 - M
@@ -184,16 +185,16 @@
 - $
 - 2
 - 0
-- 0
-- 2
+- 3
+- 3
 - .
-- 0
-- 0
+- 4
+- 9
 -  
 - (
-- 2
+- 0
 - .
-- 3
+- 8
 - %
 -  
 - b
@@ -330,9 +331,9 @@
 
 **Signal Strength Scores:**
 
-- Buy Score: 2
+- Buy Score: 4
 - Sell Score: 0
-- Short Score: 3
+- Short Score: 0
 
 ---
 
