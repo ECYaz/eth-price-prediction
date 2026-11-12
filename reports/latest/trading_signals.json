@@ -1,26 +1,23 @@
 {
   "trend_analysis": {
-    "trend": "NEUTRAL",
-    "confidence": "LOW",
+    "trend": "BEARISH",
+    "confidence": "MEDIUM",
     "ma_alignment": "bearish",
     "price_action": "bullish",
-    "momentum": "neutral",
-    "rsi": 34.217210200142276,
-    "macd_signal": "bullish"
+    "momentum": "bearish",
+    "rsi": 29.571577847439855,
+    "macd_signal": "bearish"
   },
   "support_resistance": {
-    "current_price": 2050.0,
+    "current_price": 2001.47,
     "resistance": [
       2105.22,
       2149.31,
       2250.365
     ],
-    "support": [
-      2033.49,
-      2002.0
-    ],
+    "support": [],
     "nearest_resistance": 2105.22,
-    "nearest_support": 2033.49
+    "nearest_support": null
   },
   "trading_signal": {
     "signal": "WAIT",
@@ -28,15 +25,15 @@
     "confidence": "LOW",
     "scores": {
       "buy": 4,
-      "sell": 0,
-      "short": 0
+      "sell": 2,
+      "short": 4
     },
-    "trend_context": "NEUTRAL",
-    "entry": 2033.49,
-    "stop_loss": 1972.49,
+    "trend_context": "BEARISH",
+    "entry": 1961.44,
+    "stop_loss": 1902.6,
     "target": 2105.22,
-    "risk_reward": 1.18,
-    "reasoning": "Market trend: NEUTRAL. RSI neutral at 34.2. MACD bullish crossover. Price near lower Bollinger Band. Support at $2033.49 (0.8% below). Resistance at $2105.22 (2.7% above)\n\nYou are currently OUT OF TRADE. No clear entry opportunity. Wait for a better setup.",
+    "risk_reward": 2.44,
+    "reasoning": "Market trend: BEARISH. RSI oversold at 29.6. MACD bearish crossover. Price near lower Bollinger Band. Resistance at $2105.22 (5.2% above)\n\nYou are currently OUT OF TRADE. No clear entry opportunity. Wait for a better setup.",
     "user_context": {
       "trade_status": "OUT_OF_TRADE",
       "position": {
@@ -49,8 +46,8 @@
       "notes": "Set trade_status to IN_TRADE when you enter a position, OUT_OF_TRADE when you exit"
     },
     "derivatives_data": {
-      "funding_rate": 3.20785248157e-05,
-      "open_interest": 13809940964.965227,
+      "funding_rate": 1.73208008688e-05,
+      "open_interest": 13662184466.09603,
       "long_short_ratio": null,
       "fear_greed_index": 28,
       "fear_greed_classification": "Fear"
@@ -59,7 +56,7 @@
   "market_filters": {
     "trend": "down",
     "trend_strength": 1.0,
-    "ma_200": 2334.3457,
+    "ma_200": 2329.29695,
     "near_sr": false,
     "sr_levels": [
       1873.967,
@@ -70,8 +67,8 @@
     ]
   },
   "derivatives_context": {
-    "funding_rate": 3.20785248157e-05,
-    "open_interest": 13810752484.99083,
+    "funding_rate": 1.73208008688e-05,
+    "open_interest": 13665898052.925632,
     "long_short_ratio": null,
     "fear_greed_index": 28,
     "fear_greed_classification": "Fear"
@@ -79,12 +76,12 @@
   "defi_signals": {
     "uniswap_v3": {
       "optimal_range_1sigma": [
-        2017.0,
-        2083.0
+        1965.56,
+        2037.38
       ],
       "optimal_range_2sigma": [
-        1983.99,
-        2116.01
+        1929.64,
+        2073.3
       ],
       "projected_fee_apy": null,
       "il_at_10pct": 0.113,
@@ -167,15 +164,15 @@
       "supply_change": null
     },
     "onchain_momentum": "NEUTRAL",
-    "fetched_at": "2026-11-12T08:03:01.754111Z"
+    "fetched_at": "2026-11-12T16:47:05.805870Z"
   },
   "signal_score": {
-    "score": 40,
-    "signal": "WAIT",
-    "confidence": "LOW",
+    "score": 10,
+    "signal": "SELL",
+    "confidence": "HIGH",
     "obv_trend": "DOWN",
-    "stoch_rsi": 0.519,
-    "vwap": 2095.57,
+    "stoch_rsi": 0.338,
+    "vwap": 2081.68,
     "rsi_divergence": "BULLISH"
   },
   "kelly": {
@@ -184,5 +181,5 @@
     "win_rate": 0.55,
     "win_loss_ratio": 1.5
   },
-  "generated_at": "2026-11-12T08:03:01.961389+00:00"
+  "generated_at": "2026-11-12T16:47:06.043071+00:00"
 }
