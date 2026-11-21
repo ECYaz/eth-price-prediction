@@ -1,7 +1,7 @@
 # Ethereum Price Prediction Report
 
-**Generated:** 2026-11-21 08:04:58 UTC  
-**Current Price:** $1623.81
+**Generated:** 2026-11-21 16:40:09 UTC  
+**Current Price:** $1680.31
 
 ---
 
@@ -9,15 +9,15 @@
 
 ### Trading Signal: WAIT
 
-**Action:** ENTER LONG POSITION - Good entry opportunity  
-**Confidence:** FILTERED  
+**Action:** WAIT - No clear entry signal  
+**Confidence:** LOW  
 **Market Trend:** BEAR MARKET
 
 ### Market Metrics
 
 | Metric | Value |
 |:-------|:------|
-| **Current Price** | $1623.81 |
+| **Current Price** | $1680.31 |
 | **Trend** | NEUTRAL |
 | **RSI (14)** | 50.00 (NEUTRAL) |
 | **MACD** | NEUTRAL |
@@ -29,10 +29,10 @@
 
 | Time Horizon | Predicted Price | Change | Target Time |
 |:-------------|:----------------|:-------|:------------|
-| **15min** | $1591.46 | -1.99% | 2026-11-21T08:19:59.984186+00:00 |
-| **30min** | $1593.20 | -1.89% | 2026-11-21T08:34:59.984186+00:00 |
-| **60min** | $1596.67 | -1.67% | 2026-11-21T09:04:59.984186+00:00 |
-| **120min** | $1603.61 | -1.24% | 2026-11-21T10:04:59.984186+00:00 |
+| **15min** | $1654.34 | -1.55% | 2026-11-21T16:55:12.639307+00:00 |
+| **30min** | $1654.00 | -1.57% | 2026-11-21T17:10:12.639307+00:00 |
+| **60min** | $1653.32 | -1.61% | 2026-11-21T17:40:12.639307+00:00 |
+| **120min** | $1651.96 | -1.69% | 2026-11-21T18:40:12.639307+00:00 |
 
 ---
 
@@ -46,23 +46,26 @@
 - Moving Average Alignment: Bearish
 - Price Action: Bearish
 - Momentum: Bearish
-- RSI: 26.23
+- RSI: 33.92
 - MACD: Bearish
 
 ### Support and Resistance Levels
 
-**Current Price:** $1623.01
+**Current Price:** $1678.51
 
 **Resistance Levels:**
-- R1: $1835.29 (+13.08%)
-- R2: $1864.27 (+14.86%)
-- R3: $1987.13 (+22.43%)
+- R1: $1835.29 (+9.34%)
+- R2: $1864.27 (+11.07%)
+- R3: $1987.13 (+18.39%)
+
+**Support Levels:**
+- S1: $1536.00 (-8.49%)
 
 ### Trading Signal
 
 **Signal:** WAIT  
-**Action:** ENTER LONG POSITION - Good entry opportunity  
-**Confidence:** FILTERED
+**Action:** WAIT - No clear entry signal  
+**Confidence:** LOW
 
 **Analysis Reasoning:**
 
@@ -97,22 +100,21 @@
 - S
 - I
 -  
-- o
-- v
+- n
 - e
+- u
+- t
 - r
-- s
-- o
+- a
 - l
-- d
 -  
 - a
 - t
 -  
-- 2
-- 6
+- 3
+- 3
 - .
-- 2
+- 9
 - .
 -  
 - M
@@ -139,37 +141,38 @@
 - r
 - .
 -  
-- P
+- S
+- u
+- p
+- p
+- o
 - r
-- i
-- c
-- e
+- t
 -  
-- n
-- e
 - a
-- r
+- t
 -  
+- $
+- 1
+- 5
+- 3
+- 6
+- .
+- 0
+- 0
+-  
+- (
+- 8
+- .
+- 5
+- %
+-  
+- b
+- e
 - l
 - o
 - w
-- e
-- r
--  
-- B
-- o
-- l
-- l
-- i
-- n
-- g
-- e
-- r
--  
-- B
-- a
-- n
-- d
+- )
 - .
 -  
 - R
@@ -196,10 +199,9 @@
 - 9
 -  
 - (
-- 1
-- 3
+- 9
 - .
-- 1
+- 3
 - %
 -  
 - a
@@ -244,20 +246,20 @@
 - E
 - .
 -  
-- T
-- h
-- i
-- s
+- N
+- o
 -  
-- i
-- s
--  
+- c
+- l
+- e
 - a
+- r
 -  
-- g
-- o
-- o
-- d
+- e
+- n
+- t
+- r
+- y
 -  
 - o
 - p
@@ -270,36 +272,36 @@
 - i
 - t
 - y
+- .
 -  
+- W
+- a
+- i
 - t
+-  
+- f
 - o
--  
-- e
-- n
-- t
-- e
 - r
 -  
 - a
 -  
-- l
-- o
-- n
-- g
--  
-- p
-- o
-- s
-- i
+- b
+- e
 - t
-- i
-- o
-- n
+- t
+- e
+- r
+-  
+- s
+- e
+- t
+- u
+- p
 - .
 
 **Signal Strength Scores:**
 
-- Buy Score: 5
+- Buy Score: 1
 - Sell Score: 2
 - Short Score: 4
 
