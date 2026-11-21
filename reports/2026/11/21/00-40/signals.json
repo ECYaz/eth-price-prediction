@@ -1,0 +1,190 @@
+{
+  "trend_analysis": {
+    "trend": "BEAR MARKET",
+    "confidence": "HIGH",
+    "ma_alignment": "bearish",
+    "price_action": "bearish",
+    "momentum": "bearish",
+    "rsi": 26.822012890431367,
+    "macd_signal": "bearish"
+  },
+  "support_resistance": {
+    "current_price": 1623.06,
+    "resistance": [
+      1835.2939999999999,
+      1864.27,
+      1987.13
+    ],
+    "support": [
+      1577.65
+    ],
+    "nearest_resistance": 1835.2939999999999,
+    "nearest_support": 1577.65
+  },
+  "trading_signal": {
+    "signal": "WAIT",
+    "action": "ENTER LONG POSITION - Good entry opportunity",
+    "confidence": "FILTERED",
+    "scores": {
+      "buy": 5,
+      "sell": 2,
+      "short": 2
+    },
+    "trend_context": "BEAR MARKET",
+    "entry": 1623.06,
+    "stop_loss": 1577.65,
+    "target": 1835.29,
+    "risk_reward": 4.67,
+    "reasoning": "Market trend: BEAR MARKET. RSI oversold at 26.8. MACD bearish crossover. Price near lower Bollinger Band. Support at $1577.65 (2.8% below). Resistance at $1835.29 (13.1% above)\n\nYou are currently OUT OF TRADE. This is a good opportunity to enter a long position.",
+    "user_context": {
+      "trade_status": "OUT_OF_TRADE",
+      "position": {
+        "entry_price": 0,
+        "position_size": 0,
+        "entry_time": null,
+        "type": "LONG"
+      },
+      "last_updated": null,
+      "notes": "Set trade_status to IN_TRADE when you enter a position, OUT_OF_TRADE when you exit"
+    },
+    "derivatives_data": {
+      "funding_rate": -0.0001988659550965,
+      "open_interest": 11519543627.069036,
+      "long_short_ratio": null,
+      "fear_greed_index": 12,
+      "fear_greed_classification": "Extreme Fear"
+    },
+    "filter_reasons": [
+      "Signal conflicts with down trend"
+    ]
+  },
+  "market_filters": {
+    "trend": "down",
+    "trend_strength": 1.0,
+    "ma_200": 2166.90045,
+    "near_sr": false,
+    "sr_levels": [
+      1874.9246,
+      2506.7354000000005,
+      1921.7254,
+      2693.9386000000004,
+      2249.331
+    ]
+  },
+  "derivatives_context": {
+    "funding_rate": -0.0001988659550965,
+    "open_interest": 11520252129.660034,
+    "long_short_ratio": null,
+    "fear_greed_index": 12,
+    "fear_greed_classification": "Extreme Fear"
+  },
+  "defi_signals": {
+    "uniswap_v3": {
+      "optimal_range_1sigma": [
+        1583.02,
+        1663.1
+      ],
+      "optimal_range_2sigma": [
+        1542.99,
+        1703.13
+      ],
+      "projected_fee_apy": null,
+      "il_at_10pct": 0.113,
+      "il_at_20pct": 0.414,
+      "il_at_30pct": 0.854,
+      "tvl_usd": 0,
+      "fees_24h_usd": 0,
+      "recommendation": "WAIT"
+    },
+    "sushiswap": {
+      "tvl_usd": null,
+      "volume_24h_usd": null,
+      "fees_24h_usd": null
+    },
+    "protocol_comparison": {
+      "uniswap_v3_apy": 0,
+      "sushiswap_apy": null,
+      "better_protocol": "UNISWAP_V3",
+      "better_apy": 0
+    },
+    "fear_greed_value": 12,
+    "fear_greed_label": "Extreme Fear",
+    "gas_gwei": null,
+    "gas_label": "LOW",
+    "onchain_momentum": "BULLISH"
+  },
+  "onchain_context": {
+    "gas": {
+      "safe_gas_gwei": null,
+      "propose_gas_gwei": null,
+      "fast_gas_gwei": null,
+      "label": "LOW"
+    },
+    "uniswap_v3_pool": {
+      "token0_price": null,
+      "token1_price": null,
+      "liquidity": null,
+      "tick": null,
+      "tvl_usd": null,
+      "volume_24h_usd": null,
+      "fees_24h_usd": null,
+      "hour_data": []
+    },
+    "fear_greed": {
+      "value": 12,
+      "label": "Extreme Fear",
+      "history": [
+        {
+          "value": 12,
+          "label": "Extreme Fear"
+        },
+        {
+          "value": 12,
+          "label": "Extreme Fear"
+        },
+        {
+          "value": 10,
+          "label": "Extreme Fear"
+        },
+        {
+          "value": 11,
+          "label": "Extreme Fear"
+        },
+        {
+          "value": 12,
+          "label": "Extreme Fear"
+        },
+        {
+          "value": 10,
+          "label": "Extreme Fear"
+        },
+        {
+          "value": 10,
+          "label": "Extreme Fear"
+        }
+      ]
+    },
+    "eth_supply": {
+      "eth_burned_all_time": null,
+      "supply_change": null
+    },
+    "onchain_momentum": "BULLISH",
+    "fetched_at": "2026-11-21T00:41:13.742148Z"
+  },
+  "signal_score": {
+    "score": 0,
+    "signal": "SELL",
+    "confidence": "HIGH",
+    "obv_trend": "DOWN",
+    "stoch_rsi": 0.289,
+    "vwap": 1733.64,
+    "rsi_divergence": "NONE"
+  },
+  "kelly": {
+    "kelly_fraction": 0.25,
+    "kelly_pct": 25.0,
+    "win_rate": 0.55,
+    "win_loss_ratio": 1.5
+  },
+  "generated_at": "2026-11-21T00:41:13.871910+00:00"
+}
